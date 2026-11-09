@@ -1,2 +1,2 @@
-# Beamer
-> there're lots of codes about beamer making
+# main
+> there're lots of codes about Agent4Control&Grid based on multi-agent theory
